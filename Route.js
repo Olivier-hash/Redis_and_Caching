@@ -1,2 +1,11 @@
 const express = require('express')
-const Routes = express.Router()
+const Router = express.Router()
+
+
+
+Router.get('/users' ,()=>{
+
+})
+
+
+
