@@ -3,7 +3,7 @@ const Router = express.Router()
 
 
 
-Router.get('/users' ,()=>{
+Router.get('/users' ,(req,res)=>{
 
 })
 
